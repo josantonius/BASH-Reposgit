@@ -1554,7 +1554,7 @@ function searchMethodsInClass {
             #
             if [ "$skip" = 0 ]; then
 
-	            if [[ $method == test* ]]; then
+	            if [[ $classNameProv == *Test ]]; then
 
 	                printf "${classNameProv}${methodType}${method}();\n" >> "${namespace}/READMETestsMethods"
 
