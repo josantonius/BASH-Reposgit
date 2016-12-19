@@ -1701,7 +1701,7 @@ function addClass {
 }
 
 #------------------------------------------------
-# Check if user configuration exists
+# Check if user configuration exists 
 #------------------------------------------------
 checkUserSetting
 
