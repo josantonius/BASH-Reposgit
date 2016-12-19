@@ -1510,14 +1510,6 @@ function searchMethodsInClass {
             )
 
             #
-            # Php methods types
-            #
-            declare -a methodsTypes=(
-                "private" 
-                "protected" 
-            )
-
-            #
             # Validate if the method is static
             #
             ifStatic=$(grep "function" "${namespace}/${classPath}/${classNameProv}.php" | grep "${method}" | grep "static")
@@ -1529,22 +1521,30 @@ function searchMethodsInClass {
             fi
 
             #
+            # Validate if the method is private
+            #
+            ifSprivate=$(grep "function" "${namespace}/${classPath}/${classNameProv}.php" | grep "${method}" | grep "private")
+
+            if [ ! -z "$ifSprivate" ]; then
+                skip=1
+            fi
+
+            #
+            # Validate if the method is protected
+            #
+            ifSprotected=$(grep "function" "${namespace}/${classPath}/${classNameProv}.php" | grep "${method}" | grep "protected")
+
+            if [ ! -z "$ifSprotected" ]; then
+                skip=1
+            fi
+
+            #
             # Check if it is a magic method.
             #
             containsElement "${method}" "${magicMethods[@]}"
 
             case $? in
                 1) skip=1;;
-                *)             
-		            #
-		            # Check method type (protected - private).
-		            #
-		            containsElement "${ifStatic}" "${methodsTypes[@]}"
-
-		            case $? in
-		                1) skip=1;;
-		            esac
-		        ;;
             esac
 
             setChangelogFile addMethod $method $methodType
