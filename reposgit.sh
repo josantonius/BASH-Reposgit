@@ -1759,7 +1759,7 @@ addClass src
 #------------------------------------------------
 # Ask if adding a new class
 #------------------------------------------------
-askAddClass
+# askAddClass
 
 #------------------------------------------------
 # Add data to the CONDUCT.md file
