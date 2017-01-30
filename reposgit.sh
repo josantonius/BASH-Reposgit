@@ -100,9 +100,9 @@ msgRepositoryPrefix=( "Prefijo para los repositorios" "Prefix for the repositori
 msgLicenseType=(      "Tipo de licencia para el repositorio" "Repository license type")
 msgCreatingLicense=(   "Creando licencia" "Creating License")
 msgVersionPHPRequire=( "Versión PHP requerida" "PHP version required")
-msgPHPVersion7=(       "Versión 7 o superior" "Version 7 or higher")
-msgPHPVersion6=(       "Versión 6 o superior" "Version 6 or higher")
-msgPHPVersion5=(       "Versión 5 o superior" "Version 5 or higher")
+msgPHPVersion70=(       "Versión 7.0 o superior" "Version 7.0 or higher")
+msgPHPVersion56=(       "Versión 5.6 o superior" "Version 5.6 or higher")
+msgPHPVersion55=(       "Versión 5.5 o superior" "Version 5.5 or higher")
 msgUnrecognizedOption=("Opción no reconocida" "Unrecognized option")
 msgMinimumPHPRequired=("Versión mínima de PHP requerida" "Minimum PHP version required")
 msgClassName=(         "Nombre de la clase" "Class Name")
@@ -705,23 +705,23 @@ function setPHPVersionRequire {
 
     printf "\n ${GREEN}· ${msgVersionPHPRequire[${T}]}: ${NC}\n\n"
     options=(
-        "${msgPHPVersion7[${T}]}" 
-        "${msgPHPVersion6[${T}]}"
-        "${msgPHPVersion5[${T}]}"
+        "${msgPHPVersion70[${T}]}" 
+        "${msgPHPVersion56[${T}]}"
+        "${msgPHPVersion55[${T}]}"
     )
     select opt in "${options[@]}"
     do
         case $opt in
-            "${msgPHPVersion7[${T}]}")
+            "${msgPHPVersion70[${T}]}")
                 PHPVersionRequire="7.0"
                 break
                 ;;
-            "${msgPHPVersion6[${T}]}")
-                PHPVersionRequire="5.0"
+            "${msgPHPVersion56[${T}]}")
+                PHPVersionRequire="5.6"
                 break
                 ;;
-            "${msgPHPVersion5[${T}]}")
-                PHPVersionRequire="4.0"
+            "${msgPHPVersion55[${T}]}")
+                PHPVersionRequire="5.5"
                 break
                 ;;
             *) printf "\n${msgUnrecognizedOption[${T}]} ";;
