@@ -41,7 +41,8 @@ Open a new terminal in the directory where you want to create the repository and
 Install:
 
 
-![image(https://asciinema.org/a/94530.png)](https://asciinema.org/a/94530)
+![![image](https://asciinema.org/a/94530.png)](https://asciinema.org/a/94530)
+
 
 
 Create local repository and sync in GitHub:
