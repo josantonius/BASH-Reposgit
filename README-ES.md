@@ -40,22 +40,12 @@ Abra un nuevo terminal en el directorio donde desees crear el repositorio y escr
 
 Instalar:
 
+![Install](https://asciinema.org/a/94530).
 
-[![asciicast](https://asciinema.org/a/94530.png)](https://asciinema.org/a/94530)
-
-
-Crear repositorio local y sincronizar en GitHub:
+![Create local repository and sync in GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr).
 
 
-[![asciicast](https://asciinema.org/a/94540.png)](https://asciinema.org/a/94540)
-
-
-
-Resincronización con GitHub:
-
-
-[![asciicast](https://asciinema.org/a/94541.png)](https://asciinema.org/a/94541)
-
+[![Resynchronization with GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr).
 
 Ejemplo de repositorio creado con Reposgit: [PHP DataType library](https://github.com/Josantonius/PHP-DataType).
 
