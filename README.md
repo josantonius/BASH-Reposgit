@@ -1,5 +1,4 @@
 # Reposgit Creator (BASH SCRIPT)
-================================
 
 [![GitHub tag](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Josantonius/BASH-Reposgit/tree/1.0.0) [![Packagist](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Josantonius/BASH-Reposgit/blob/master/LICENSE) 
 
@@ -42,7 +41,7 @@ Open a new terminal in the directory where you want to create the repository and
 Install:
 
 
-[![asciicast](https://asciinema.org/a/c4f5yu9qluhkeyioa7msryyu3.png)](https://asciinema.org/a/c4f5yu9qluhkeyioa7msryyu3)
+[![asciicast](https://asciinema.org/a/94530.png)](https://asciinema.org/a/94530)
 
 
 Create local repository and sync in GitHub:
@@ -55,7 +54,7 @@ Create local repository and sync in GitHub:
 Resynchronization with GitHub:
 
 
-[![asciicast](https://asciinema.org/a/a8sdojld7flbadkmhjw7ogqzh.png)](https://asciinema.org/a/a8sdojld7flbadkmhjw7ogqzh)
+[![asciicast](https://asciinema.org/a/94545.png)](https://asciinema.org/a/94545)
 
 
 Repository example created with Reposgit: [PHP DataType library](https://github.com/Josantonius/PHP-DataType).
