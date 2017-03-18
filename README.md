@@ -38,12 +38,12 @@ Open a new terminal in the directory where you want to create the repository and
 
 ### Examples
 
-![Install](https://asciinema.org/a/94530).
+[Install](https://asciinema.org/a/94530).
 
-![Create local repository and sync in GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr).
+[Create local repository and sync in GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr).
 
 
-[![Resynchronization with GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr).
+[Resynchronization with GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr).
 
 Repository example created with Reposgit: [PHP DataType library](https://github.com/Josantonius/PHP-DataType).
 
