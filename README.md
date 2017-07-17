@@ -18,16 +18,6 @@ Automatically create and upload PHP repositories compatible with Composer on Git
 
 ---
 
-<p align="center"><strong>Take a look at the code</strong></p>
-
-<p align="center">
-  <a href="" title="Take a look at the code">
-  	<img src="https://raw.githubusercontent.com/Josantonius/PHP-Algorithm/master/resources/youtube-thumbnail.jpg">
-  </a>
-</p>
-
----
-
 ### Installation
 
     $ git clone https://github.com/Josantonius/BASH-Reposgit.git reposgit

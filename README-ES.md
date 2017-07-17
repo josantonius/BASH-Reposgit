@@ -18,16 +18,6 @@ Crea y carga automáticamente repositorios PHP compatibles con Composer en GitHu
 
 ---
 
-<p align="center"><strong>Echa un vistazo al código</strong></p>
-
-<p align="center">
-  <a href="" title="Echa un vistazo al código">
-  	<img src="https://raw.githubusercontent.com/Josantonius/PHP-Algorithm/master/resources/youtube-thumbnail.jpg">
-  </a>
-</p>
-
----
-
 ### Instalación
 
     $ git clone https://github.com/Josantonius/BASH-Reposgit.git reposgit
