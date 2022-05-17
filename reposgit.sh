@@ -5,7 +5,7 @@
 #                                                                                      #
 # Automatically create and upload PHP repositories compatible with Composer on GitHub  #
 #                                                                                      #
-# author:     Josantonius - info@josantonius.com                                       #
+# author:     Josantonius - hello@josantonius.dev                                       #
 # copyright:  Copyright (c) 2016                                                       #
 # license:    https://opensource.org/licenses/MIT - The MIT License (MIT)              #
 # version:    1.0.0                                                                    #
@@ -39,96 +39,96 @@ test "${langCode}" == "es"
 
 T=$?
 
-msgScriptDescription=("Crea y sube repositorios PHP compatibles con Composer en GitHub"
-                      "Create and upload Composer-compatible PHP repositories on GitHub")
-msgCommandsList=(     "Lista de comandos disponibles para" "Commands list available for")
-msgStartProgram=(     "Iniciar programa" "Start program")
-msgHelpCommand=(      "Comando de ayuda" "Help command")
-msgDelSettingAsk=(    "Eliminar configuración de usuario" "Delete user settings")
-msgSettingsDeleted=(  "La configuración se ha eliminado con éxito" "Settings deleted successfully")
-msgMainMenu=(         "·          CREAR REPOSITORIO PHP COMPOSER PARA GITHUB          ·"
-                      "·          CREATE PHP COMPOSER REPOSITORY FOR GITHUB           ·")
-msgConfigExists=(     "Ya existe una configuración guardada en" 
-                      "A saved configuration already exists in")
-msgType=(             "Escribe" "Type")
-msgToRestart=(        "para reiniciar" "to restart")
-msgLibrariesCategory=("Categoría para librerías" "Category for libraries")
-msgUsername=(         "Nombre de usuario" "Username")
-msgRepositorySinc=(   "El repositorio ya se ha sincronizado anteriormente con GitHub" 
-                      "The repository has already been previously synced with GitHub")
-msgDeleteDirectory=(  "¿Eliminar el directorio '.git' y volver a sincronizar?" 
-                      "Delete directory '.git' and synchronize?")
-msgGoTo=(             "Entra en" "Go to")
-msgDeleteDirIfExists=("Si existe el repositorio, elimínalo antes de continuar" 
-                      "If the repository exists, delete it before continuing")
-msgContinue=(         "¿CONTINUAR?" "CONTINUE?")
-msgRenamingDirectory=("Renombrando directorio '.git' y creándolo de nuevo" 
-                      "Renaming directory '.git' and creating it again")
-msgAbort=(            "No se realizarán acciones. Abortando" 
-                      "No action will be taken. Aborting")
-msgRepositoryExists=( "El repositorio ya existe pero no se ha sincronizado con GitHub" 
-                      "The repository already exists but has not been synchronized with GitHub")
-msgNamespaceName=(    "Nombre del namespace" "Namespace name")
-msgRepositoryDesc=(   "Descripción del repositorio" "Repository description")
-msgClassDescription=( "Descripción de la clase" "Class description")
-msgCreatingDirectory=("Creando directorio en" "Creating directory in")
-msgAddClassAsk=(      "¿Deseas añadir otra clase?" "Do you want to add another class?")
-msgInvalidOption=(    "no es una opción válida" "invalid option")
-msgAddClassException=("¿Deseas añadir un manejador de excepciones?" 
-                      "Do you want to add an exception handler?")
-msgAddClassTests=(    "¿Deseas añadir una clase para tests?" 
-                      "Do you want to add a class for tests?")
-msgStrictTypesAsk=(   "¿La clase tiene tipos de datos estrictos?" 
-                      "Does class have strict data types?")
-msgClassStrictTypes=( "Declarando datos estrictos en la clase" 
-                      "Declare strict data types in the class")
-msgUseExampleAsk=(    "¿Añadir otro ejemplo de uso?" "Add another use example?")
-msgUploadRepository=( "¿Quieres subir el repositorio a GitHub?" 
-                      "Do you want to upload the repository to GitHub?")
-msgGitInit=(          "Iniciar repositorio git" "Start git repository")
-msgGitAdd=(           "Agregar archivos a repositorio git" "Add files to git repository")
-msgGitCommit=(        "Comentar archivos" "Comment files")
-msgGitTag=(           "Versionar archivos con la versión" "Versioning files with version")
-msgGitApi=(           "Crear repositorio en" "Create repository in")
-msgGitRemote=(        "Sincronizar repositorio GitHub con" "Synchronize GitHub repository with")
-msgGitPush=(          "Subir archivos a repositorio" "Upload files to repository")
-msgGitMaster=(        "EL REPOSITORIO SE HA SUBIDO CON ÉXITO" 
-                      "THE REPOSITORY WAS SUCCESSFULLY UPLOADED")
-msgCompatibleRepo=(   "¿Esta librería es compatible con HHVM?" 
-                      "Is the library compatible with HHVM?")
-msgRepositoryPrefix=( "Prefijo para los repositorios" "Prefix for the repositories")
-msgLicenseType=(      "Tipo de licencia para el repositorio" "Repository license type")
-msgCreatingLicense=(   "Creando licencia" "Creating License")
-msgVersionPHPRequire=( "Versión PHP requerida" "PHP version required")
+msgScriptDescription=(  "Crea y sube repositorios PHP compatibles con Composer en GitHub"
+                        "Create and upload Composer-compatible PHP repositories on GitHub")
+msgCommandsList=(       "Lista de comandos disponibles para" "Commands list available for")
+msgStartProgram=(       "Iniciar programa" "Start program")
+msgHelpCommand=(        "Comando de ayuda" "Help command")
+msgDelSettingAsk=(      "Eliminar configuración de usuario" "Delete user settings")
+msgSettingsDeleted=(    "La configuración se ha eliminado con éxito" "Settings deleted successfully")
+msgMainMenu=(           "·          CREAR REPOSITORIO PHP COMPOSER PARA GITHUB          ·"
+                        "·          CREATE PHP COMPOSER REPOSITORY FOR GITHUB           ·")
+msgConfigExists=(       "Ya existe una configuración guardada en" 
+                        "A saved configuration already exists in")
+msgType=(               "Escribe" "Type")
+msgToRestart=(          "para reiniciar" "to restart")
+msgLibrariesCategory=(  "Categoría para librerías" "Category for libraries")
+msgUsername=(           "Nombre de usuario" "Username")
+msgRepositorySinc=(     "El repositorio ya se ha sincronizado anteriormente con GitHub" 
+                        "The repository has already been previously synced with GitHub")
+msgDeleteDirectory=(    "¿Eliminar el directorio '.git' y volver a sincronizar?" 
+                        "Delete directory '.git' and synchronize?")
+msgGoTo=(               "Entra en" "Go to")
+msgDeleteDirIfExists=(  "Si existe el repositorio, elimínalo antes de continuar" 
+                        "If the repository exists, delete it before continuing")
+msgContinue=(           "¿CONTINUAR?" "CONTINUE?")
+msgRenamingDirectory=(  "Renombrando directorio '.git' y creándolo de nuevo" 
+                        "Renaming directory '.git' and creating it again")
+msgAbort=(              "No se realizarán acciones. Abortando" 
+                        "No action will be taken. Aborting")
+msgRepositoryExists=(   "El repositorio ya existe pero no se ha sincronizado con GitHub" 
+                        "The repository already exists but has not been synchronized with GitHub")
+msgNamespaceName=(      "Nombre del namespace" "Namespace name")
+msgRepositoryDesc=(     "Descripción del repositorio" "Repository description")
+msgClassDescription=(   "Descripción de la clase" "Class description")
+msgCreatingDirectory=(  "Creando directorio en" "Creating directory in")
+msgAddClassAsk=(        "¿Deseas añadir otra clase?" "Do you want to add another class?")
+msgInvalidOption=(      "no es una opción válida" "invalid option")
+msgAddClassException=(  "¿Deseas añadir un manejador de excepciones?" 
+                        "Do you want to add an exception handler?")
+msgAddClassTests=(      "¿Deseas añadir una clase para tests?" 
+                        "Do you want to add a class for tests?")
+msgStrictTypesAsk=(     "¿La clase tiene tipos de datos estrictos?" 
+                        "Does class have strict data types?")
+msgClassStrictTypes=(   "Declarando datos estrictos en la clase" 
+                        "Declare strict data types in the class")
+msgUseExampleAsk=(      "¿Añadir otro ejemplo de uso?" "Add another use example?")
+msgUploadRepository=(   "¿Quieres subir el repositorio a GitHub?" 
+                        "Do you want to upload the repository to GitHub?")
+msgGitInit=(            "Iniciar repositorio git" "Start git repository")
+msgGitAdd=(             "Agregar archivos a repositorio git" "Add files to git repository")
+msgGitCommit=(          "Comentar archivos" "Comment files")
+msgGitTag=(             "Versionar archivos con la versión" "Versioning files with version")
+msgGitApi=(             "Crear repositorio en" "Create repository in")
+msgGitRemote=(          "Sincronizar repositorio GitHub con" "Synchronize GitHub repository with")
+msgGitPush=(            "Subir archivos a repositorio" "Upload files to repository")
+msgGitMaster=(          "EL REPOSITORIO SE HA SUBIDO CON ÉXITO" 
+                        "THE REPOSITORY WAS SUCCESSFULLY UPLOADED")
+msgCompatibleRepo=(     "¿Esta librería es compatible con HHVM?" 
+                        "Is the library compatible with HHVM?")
+msgRepositoryPrefix=(   "Prefijo para los repositorios" "Prefix for the repositories")
+msgLicenseType=(        "Tipo de licencia para el repositorio" "Repository license type")
+msgCreatingLicense=(    "Creando licencia" "Creating License")
+msgVersionPHPRequire=(  "Versión PHP requerida" "PHP version required")
 msgPHPVersion70=(       "Versión 7.0 o superior" "Version 7.0 or higher")
 msgPHPVersion56=(       "Versión 5.6 o superior" "Version 5.6 or higher")
 msgPHPVersion55=(       "Versión 5.5 o superior" "Version 5.5 or higher")
-msgUnrecognizedOption=("Opción no reconocida" "Unrecognized option")
-msgMinimumPHPRequired=("Versión mínima de PHP requerida" "Minimum PHP version required")
-msgClassName=(         "Nombre de la clase" "Class Name")
-msgClassVersion=(      "Versión de la clase" "Class version")
-msgRepositoryVersion=( "Versión del repositorio" "Repository version")
-msgAddingClass=(       "Añadiendo clase" "Adding class")
-msgCreatingFile=(      "Creando archivo en" "Creating file in")
-msgMethodFound=(       "Método encontrado" "Method found")
-msgEnterKeywords=(     "Introduce palabras clave para el repositorio" 
-                       "Enter repository keywords")
-msgAddingTerm=(        "Añadiendo término" "Adding term")
-msgSaveConfig=(        "Guardando configuración en" "Saving settings in")
-msgAddHeader=(         "Añadiendo header en" "Add header in")
-msgDefineClassUsage=(  "Introduce ejemplo de uso para añadirlo a la documentación" 
-                       "Enter usage example to add to documentation")
-msgAddUsageExample=(   "Añadiendo ejemplo de uso en archivos README" 
-                       "Adding usage example to README files")  
-msgEnterClassCode=(    "Introduce el código de la clase" 
-                       "Enter the class code")  
-msgAddingCode=(        "Añadiendo código en" 
-                       "Adding code in") 
-msgExits=(             "EL REPOSITORIO SE HA CREADO CON ÉXITO" 
-                       "THE REPOSITORY HAS BEEN CREATED SUCCESSFULLY")
-msgSpanish=(           "en español" "in spanish")
-msgEnglish=(           "en inglés" "in english")
-msgYesNo=(             "s/n" "y/n")    
+msgUnrecognizedOption=( "Opción no reconocida" "Unrecognized option")
+msgMinimumPHPRequired=( "Versión mínima de PHP requerida" "Minimum PHP version required")
+msgClassName=(          "Nombre de la clase" "Class Name")
+msgClassVersion=(       "Versión de la clase" "Class version")
+msgRepositoryVersion=(  "Versión del repositorio" "Repository version")
+msgAddingClass=(        "Añadiendo clase" "Adding class")
+msgCreatingFile=(       "Creando archivo en" "Creating file in")
+msgMethodFound=(        "Método encontrado" "Method found")
+msgEnterKeywords=(      "Introduce palabras clave para el repositorio" 
+                        "Enter repository keywords")
+msgAddingTerm=(         "Añadiendo término" "Adding term")
+msgSaveConfig=(         "Guardando configuración en" "Saving settings in")
+msgAddHeader=(          "Añadiendo header en" "Add header in")
+msgDefineClassUsage=(   "Introduce ejemplo de uso para añadirlo a la documentación" 
+                        "Enter usage example to add to documentation")
+msgAddUsageExample=(    "Añadiendo ejemplo de uso en archivos README" 
+                        "Adding usage example to README files")  
+msgEnterClassCode=(     "Introduce el código de la clase" 
+                        "Enter the class code")  
+msgAddingCode=(         "Añadiendo código en" 
+                        "Adding code in") 
+msgExits=(              "EL REPOSITORIO SE HA CREADO CON ÉXITO" 
+                        "THE REPOSITORY HAS BEEN CREATED SUCCESSFULLY")
+msgSpanish=(            "en español" "in spanish")
+msgEnglish=(            "en inglés" "in english")
+msgYesNo=(              "s/n" "y/n")    
 
 #------------------------------------------------
 #   Predefined variables
