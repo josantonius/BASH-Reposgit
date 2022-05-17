@@ -66,7 +66,7 @@ This project is licensed under **MIT license**. See the [LICENSE](LICENSE) file 
 
 ## Copyright
 
-2017 - 2022 Josantonius, [josantonius.com](https://josantonius.com/)
+2017 - 2022 Josantonius, [josantonius.dev](https://josantonius.dev/)
 
 ---
 
