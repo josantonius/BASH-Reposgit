@@ -3,12 +3,11 @@
 [![GitHub tag](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Josantonius/BASH-Reposgit/tree/1.0.0) [![Packagist](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Josantonius/BASH-Reposgit/blob/master/LICENSE)
 
 > El repositorio fue archivado y ya no se mantendrá.
-
 > Para realizar este tipo de tarea sería más recomendable utilizar [PHP-Skeleton](https://github.com/Josantonius/PHP-Skeleton).
 
-[English version](README.md)
+Crea y carga automáticamente repositorios PHP compatibles con Composer en GitHub.
 
-Crea y carga automáticamente repositorios PHP compatibles con Composer en GitHub
+**Traducciones**: [English](../../README.md)
 
 ---
 
@@ -53,10 +52,10 @@ Ejemplo de repositorio creado con Reposgit: [PHP DataType library](https://githu
 ## Contribuir
 
 1. Comprobar si hay incidencias abiertas o abrir una nueva para iniciar una discusión en torno a un fallo o función.
-1. Bifurca la rama del repositorio en GitHub para iniciar la operación de ajuste.
-1. Escribe una o más pruebas para la nueva característica o expón el error.
-1. Haz cambios en el código para implementar la característica o reparar el fallo.
-1. Envía pull request para fusionar los cambios y que sean publicados.
+2. Bifurca la rama del repositorio en GitHub para iniciar la operación de ajuste.
+3. Escribe una o más pruebas para la nueva característica o expón el error.
+4. Haz cambios en el código para implementar la característica o reparar el fallo.
+5. Envía pull request para fusionar los cambios y que sean publicados.
 Esto está pensado para proyectos grandes y de larga duración.
 
 ## Autor
