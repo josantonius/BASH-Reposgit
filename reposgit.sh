@@ -3,9 +3,9 @@
 #
 ########################################################################################
 #                                                                                      #
-# Automatically create and upload PHP repositories compatible with Composer on GitHub  #
+# Automatically creates and uploads PHP-based repositories to GitHub.                  #
 #                                                                                      #
-# author:     Josantonius - hello@josantonius.dev                                       #
+# author:     Josantonius - hello@josantonius.dev                                      #
 # copyright:  Copyright (c) 2016                                                       #
 # license:    https://opensource.org/licenses/MIT - The MIT License (MIT)              #
 # version:    1.0.0                                                                    #

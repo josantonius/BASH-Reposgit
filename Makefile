@@ -15,7 +15,7 @@ install:
 	@echo ""
 	@echo 'USAGE:'
 	@echo ""
-	@echo '1 · Open the terminal in the directory where you want to create the repository.'
+	@echo '1 · Open terminal in the directory where you want to create the repository.'
 	@echo "2 · Write 'repostgit' to get started."
 	@echo ""
 	@echo 'COMMANDS:'
