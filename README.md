@@ -1,10 +1,10 @@
 # Reposgit Creator (ARCHIVED)
 
-[![GitHub tag](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Josantonius/BASH-Reposgit/tree/1.0.0)
-[![Packagist](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Josantonius/BASH-Reposgit/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/josantonius/bash-reposgit/tree/1.0.0)
+[![Packagist](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/josantonius/bash-reposgit/blob/master/LICENSE)
 
 > The repository was archived and will no longer be maintained. To perform this type of task, it would be more
-> recommended to use [PHP-Skeleton](https://github.com/Josantonius/PHP-Skeleton).
+> recommended to use [PHP-Skeleton](https://github.com/josantonius/php-skeleton).
 
 Automatically creates and uploads PHP-based repositories to GitHub. Compatible with Composer.
 
@@ -17,16 +17,15 @@ Automatically creates and uploads PHP-based repositories to GitHub. Compatible w
 - [Usage](#usage)
 - [Examples](#examples)
 - [Changelog](#changelog)
-- [Stay In Touch](#stay-in-touch)
 - [Contribution](#contribution)
-- [Donate](#donate)
+- [Sponsor](#sponsor)
 - [License](#license)
 
 ---
 
 ## Installation
 
-    git clone https://github.com/Josantonius/BASH-Reposgit.git reposgit
+    git clone https://github.com/josantonius/bash-reposgit.git reposgit
     cd reposgit
     make install
 
@@ -48,17 +47,12 @@ Open a new terminal in the directory where you want to create the repository and
 - [Create local repository and sync in GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr)
 - [Resynchronization with GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr)
 
-Repository example created with Reposgit: [PHP DataType library](https://github.com/Josantonius/PHP-DataType).
+Repository example created with Reposgit: [PHP DataType library](https://github.com/josantonius/php-dataType).
 
 ## Changelog
 
 Detailed changes for each release are documented in the
-[release notes](https://github.com/Josantonius/BASH-Reposgit/releases).
-
-## Stay In Touch
-
-- [Twitter](https://twitter.com/Josantonius)
-- [Website](https://josantonius.dev)
+[release notes](https://github.com/josantonius/bash-reposgit/releases).
 
 ## Contribution
 
@@ -67,15 +61,15 @@ before making a [pull request](.github/CONTRIBUTING.md#pull-requests),
 start a [discussion](.github/CONTRIBUTING.md#discussions) or
 report a [issue](.github/CONTRIBUTING.md#issues).
 
-Thanks to all [contributors](https://github.com/Josantonius/BASH-Reposgit/graphs/contributors) to this project! :heart:
+Thanks to all [contributors](https://github.com/josantonius/bash-reposgit/graphs/contributors) to this project! :heart:
 
-## Donate
+## Sponsor
 
-If this project help you reduce time to develop, you can
-[give me a cup of coffee](https://github.com/Josantonius/donate) :wink:
+If this project help you reduce time to develop,
+[you can become my sponsor!](https://github.com/josantonius#sponsor) :blush:
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-Copyright © 2016-2022, [Josantonius](mailto:hello@josantonius.dev)
+Copyright © 2016-2022, [Josantonius](https://github.com/josantonius#contact)

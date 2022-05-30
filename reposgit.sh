@@ -9,7 +9,7 @@
 # copyright:  Copyright (c) 2016                                                       #
 # license:    https://opensource.org/licenses/MIT - The MIT License (MIT)              #
 # version:    1.0.0                                                                    #
-# link:       https://github.com/Josantonius/BASH-Reposgit                             #
+# link:       https://github.com/josantonius/bash-reposgit                             #
 # since:      2016-11-28                                                               #
 #                                                                                      #
 #                                   ···············                                    #

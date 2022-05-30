@@ -1,10 +1,10 @@
 # Reposgit Creator (ARCHIVADO)
 
-[![GitHub tag](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Josantonius/BASH-Reposgit/tree/1.0.0)
-[![Packagist](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Josantonius/BASH-Reposgit/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/josantonius/bash-reposgit/tree/1.0.0)
+[![Packagist](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/josantonius/bash-reposgit/blob/master/LICENSE)
 
 > El repositorio fue archivado y ya no se mantendrá. Para realizar este tipo de tarea sería más
-> recomendable utilizar [PHP-Skeleton](https://github.com/Josantonius/PHP-Skeleton).
+> recomendable utilizar [PHP-Skeleton](https://github.com/josantonius/php-skeleton).
 
 Crea y sube automáticamente a GitHub repositorios basados en PHP. Compatible con Composer.
 
@@ -17,16 +17,15 @@ Crea y sube automáticamente a GitHub repositorios basados en PHP. Compatible co
 - [Uso](#uso)
 - [Ejemplos](#ejemplos)
 - [Registro de Cambios](#registro-de-cambios)
-- [Mantente en Contacto](#mantente-en-contacto)
-- [Contribución](#contribución)
-- [Donaciones](#donaciones)
+- [Contribuir](#contribuir)
+- [Patrocinar](#patrocinar)
 - [Licencia](#licencia)
 
 ---
 
 ## Instalación
 
-    git clone https://github.com/Josantonius/BASH-Reposgit.git reposgit
+    git clone https://github.com/josantonius/bash-reposgit.git reposgit
     cd reposgit
     make install
 
@@ -48,34 +47,29 @@ Abra un nuevo terminal en el directorio donde desees crear el repositorio y escr
 - [Crear un repositorio local y sincronizarlo en GitHub.](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr)
 - [Resincronización con GitHub](https://asciinema.org/a/2pa64nqyfkyr73ny0khyns8yr)
 
-Ejemplo de repositorio creado con Reposgit: [PHP DataType library](https://github.com/Josantonius/PHP-DataType).
+Ejemplo de repositorio creado con Reposgit: [PHP DataType library](https://github.com/josantonius/php-dataType).
 
 ## Registro de Cambios
 
 Los cambios detallados de cada versión se documentan en las
-[notas de la misma](https://github.com/Josantonius/BASH-Reposgit/releases).
+[notas de la misma](https://github.com/josantonius/bash-reposgit/releases).
 
-## Mantente en Contacto
-
-- [Sitio web](https://josantonius.dev)
-- [Twitter](https://twitter.com/Josantonius)
-
-## Contribución
+## Contribuir
 
 Por favor, asegúrate de leer la [Guía de Contribución](CONTRIBUTING.md) antes de hacer una
 [solicitud de extracción (pull request)](CONTRIBUTING.md#solicitudes-de-extracción-pull-requests),
 comenzar una [discusión (discussions)](CONTRIBUTING.md#discusiones-discussions)
 o reportar un [problema (issue)](CONTRIBUTING.md#problemas-issues).
 
-¡Gracias por [colaborar](https://github.com/Josantonius/BASH-Reposgit/graphs/contributors) con este proyecto! :heart:
+¡Gracias por [colaborar](https://github.com/josantonius/bash-reposgit/graphs/contributors) con este proyecto! :heart:
 
-## Donaciones
+## Patrocinar
 
-Si este proyecto te ayuda a reducir el tiempo de desarrollo, ¡puedes
-[invitarme a un café](https://github.com/Josantonius/donate)! :wink:
+Si este proyecto te ayuda a reducir el tiempo de desarrollo,
+[¡puedes patrocinarme!](https://github.com/josantonius/lang/es-ES/README.md#patrocinar) :blush:
 
 ## Licencia
 
 Este proyecto tiene una licencia [MIT License](LICENSE).
 
-Copyright © 2016-2022, [Josantonius](mailto:hello@josantonius.dev)
+Copyright © 2016-2022, [Josantonius](https://github.com/josantonius/lang/es-ES/README.md#contacto)
