@@ -29,11 +29,11 @@ Los grandes informes de errores suelen tener:
 
 Las discusiones son esenciales:
 
-- `General`: Cualquier cosa que sea relevante para el proyecto.
-- `Ideas`: Ideas para mejorar el proyecto o proponer nuevas características.
-- `Encuestas (Polls)`: Encuestas con múltiples opciones para que la comunidad.
-- `Q&A`: Preguntas para que la comunidad responda..
-- `Mostrar y contar (Show and tell)`: Creaciones, experimentos o pruebas.
+- `General`: cualquier cosa que sea relevante para el proyecto.
+- `Ideas`: ideas para mejorar el proyecto o proponer nuevas características.
+- `Encuestas (Polls)`: encuestas con múltiples opciones para que la comunidad.
+- `Q&A`: preguntas para que la comunidad responda..
+- `Mostrar y contar (Show and tell)`: creaciones, experimentos o pruebas.
 
 ## Solicitudes de Extracción (Pull Requests)
 

@@ -29,11 +29,11 @@ Great bug reports tend to have:
 
 Discussions are essential:
 
-- `General`: Anything that is relevant to the project.
-- `Ideas`: Ideas to change/improve the project or propose new features.
-- `Polls`: Polls with multi options for the community to vote for and discuss.
-- `Q&A`: Questions for the community to answer, in a question/answer format.
-- `Show and tell`: Creations, experiments, or tests relevant to the project.
+- `General`: anything that is relevant to the project.
+- `Ideas`: ideas to change/improve the project or propose new features.
+- `Polls`: polls with multi options for the community to vote for and discuss.
+- `Q&A`: questions for the community to answer, in a question/answer format.
+- `Show and tell`: creations, experiments, or tests relevant to the project.
 
 ## Pull Requests
 
