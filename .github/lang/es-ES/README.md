@@ -8,7 +8,7 @@
 
 Crea y sube automáticamente a GitHub repositorios basados en PHP. Compatible con Composer.
 
-**Traducciones**: [English](../../README.md)
+**Traducciones**: [English](/README.md)
 
 ---
 
