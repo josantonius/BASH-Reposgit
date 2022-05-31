@@ -32,7 +32,7 @@ Las discusiones son esenciales:
 - `General`: cualquier cosa que sea relevante para el proyecto.
 - `Ideas`: ideas para mejorar el proyecto o proponer nuevas características.
 - `Encuestas (Polls)`: encuestas con múltiples opciones para que la comunidad.
-- `Q&A`: preguntas para que la comunidad responda..
+- `Q&A`: preguntas para que la comunidad responda.
 - `Mostrar y contar (Show and tell)`: creaciones, experimentos o pruebas.
 
 ## Solicitudes de Extracción (Pull Requests)
